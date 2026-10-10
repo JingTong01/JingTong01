@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Jing Tong 👋
+Data Analyst | Quantitative Research · Ph.D. Experimental Psychology (RWTH Aachen, magna cum laude)
+📍 Neuss, Germany · open to on-site, hybrid, remote & relocation
+I turn messy, complex datasets into clear, decision-ready insights — with reproducible Python, R and SQL workflows.
+New end-to-end data projects are added here regularly.
+Tools: Python · R · SQL · Excel · PowerPoint · statistics 
+---
+📂 Projects (newest first)
+Date	Project	What it shows	Stack
+2026-10	University Research Ranking Prototype	Ranked 59 German universities from OpenAlex data; rank uncertainty via 14 scenarios and 5,000 Monte Carlo simulations	Python, SQL, Excel
 
-<!--
-**JingTong01/JingTong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📧 jingtong0022@gmail.com
