@@ -20,5 +20,4 @@ New end-to-end data projects are added here regularly.
 
 
 ---
-
-📧 jingtong0022@gmail.com
+Email: jingtong0022@gmail.com
