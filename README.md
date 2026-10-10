@@ -2,7 +2,7 @@
 
 **Data Analyst | Quantitative Research** · Ph.D. Experimental Psychology (RWTH Aachen, magna cum laude)
 
-📍open to on-site, hybrid, remote & relocation
+📍Open to on-site, hybrid, remote & relocation
 
 I turn messy, complex datasets into clear, decision-ready insights — with reproducible Python, R and SQL workflows.
 New end-to-end data projects are added here regularly.
