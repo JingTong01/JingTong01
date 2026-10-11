@@ -15,6 +15,7 @@ New end-to-end data projects are added here regularly.
 
 | Date | Project | What it shows | Stack |  Status |
 |---|---|---|---|---|
+| 2026-10 | [Subscription Lifecycle and Churn Analysis](https://github.com/JingTong01/subscription-lifecycle-churn-analysis) | Analysed real subscription data to identify when subscribers churn, which segments are most at risk, and how early declining engagement signals churn, with recommendations for retention| SQL | Ongoing | 
 | 2026-10 | [E-Mail Campaign A/B Test](https://github.com/JingTong01/email-campaign-ab-test) | Which e-mail strategy drives sales? A/B test of two e-mail campaigns (64,000 customers): measured incremental sales and recommended the most profitable sending rule | Python, SQL, statistics |  ✅ Done |
 | 2026-10 | [University Research Ranking Prototype](https://github.com/JingTong01/university-ranking_Germany) | Ranked 59 German universities from OpenAlex data; rank uncertainty via 14 scenarios and 5,000 Monte Carlo simulations | Python, SQL, Excel | ✅ Done |
 
